@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32340'
     url: http://www.gutenberg.org/2009/agents/32340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26930#Over-the-top-with-the-25th--Chronicle-of-events-at-Vimy-Ridge-and-Courcellette
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2008-10-16'
 gutenberg_type: Text
