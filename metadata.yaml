@@ -1,0 +1,27 @@
+_repo: Over-the-top-with-the-25th--Chronicle-of-events-at-Vimy-Ridge-and-Courcellette_26930
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26930-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lewis, R.
+    gutenberg_agent_id: '32340'
+    url: http://www.gutenberg.org/2009/agents/32340
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada. Canadian Army. Battalion, 25th'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, Canadian'
+- !lcsh 'Vimy Ridge, Battle of, France, 1917'
+- !lcc 'D501'
+title: 'Over the top with the 25th: Chronicle of events at Vimy Ridge and Courcellette'
+url: http://www.gutenberg.org/ebooks/26930
